@@ -3,7 +3,7 @@
 <h3 align="center"> <a href="https://jorgejimenezcr.com" target="blank"> jorgejimenezcr.com </a> </h3>
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="150"/>
 </p>
 
 <br>
