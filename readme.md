@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Sor soy Jorge Alberto Jiménez Carrillo </h1>
+<h1 align="center">Hola 👋, Soy Jorge Alberto Jiménez Carrillo </h1>
 <h3 align="center">Ingeniero en Sistemas Full Stack🌟.</h3>
 <h3 align="center">🌟.</h3>
 
