@@ -8,7 +8,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="200" /></p>
 
 
 - 🌱 Me gusta aprender diferentes tecnologías
@@ -32,9 +32,9 @@
 
 <br>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<!-- <h3 align="left">Lenguajes y herramientas:</h3>
 
-<!-- <p align="left"> 
+<p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
     </a> 
