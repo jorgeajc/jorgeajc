@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Jorge Alberto Jiménez Carrillo </h1>
 <h3 align="center">Ingeniero en Sistemas Full Stack🌟.</h3>
-<h3 align="center"> jorgejimenezcr.com🌟.</h3>
+<h3 align="center"> <a href="https://jorgejimenezcr.com" target="blank"> jorgejimenezcr.com </a> </h3>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
